@@ -1,0 +1,17 @@
+.col1 {
+	background-color: blue;
+	color: white;
+}
+
+.col2 {
+	background-color: green;
+	color: white;
+}
+.nest-col-1 {
+	background-color: pink;
+	color: white;
+}
+.nest-col-2 {
+	background-color: purple;
+	color: white
+}
